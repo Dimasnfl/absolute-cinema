@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.nav-fixed {
+    @apply fixed z-[9999] bg-yellow-300 bg-opacity-0 backdrop-blur shadow-md shadow-yellow-400;
+}
