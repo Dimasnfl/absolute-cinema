@@ -4,4 +4,4 @@ created by using :
 * ReactJS
 * TailwindCSS
 * Axios
-* The Movie Database(TMDB) API
+
