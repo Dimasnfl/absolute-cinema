@@ -1,4 +1,4 @@
-**Movie search web using TMDB API.**
+**Movie search web with TMDB API.**
 
 created by using :
 * ReactJS
